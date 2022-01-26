@@ -1,0 +1,15 @@
+D:\.NET-Core\Begginer CpnsoleApp\bin\Debug\net6.0\Begginer CpnsoleApp.exe
+D:\.NET-Core\Begginer CpnsoleApp\bin\Debug\net6.0\Begginer CpnsoleApp.deps.json
+D:\.NET-Core\Begginer CpnsoleApp\bin\Debug\net6.0\Begginer CpnsoleApp.runtimeconfig.json
+D:\.NET-Core\Begginer CpnsoleApp\bin\Debug\net6.0\Begginer CpnsoleApp.dll
+D:\.NET-Core\Begginer CpnsoleApp\bin\Debug\net6.0\ref\Begginer CpnsoleApp.dll
+D:\.NET-Core\Begginer CpnsoleApp\bin\Debug\net6.0\Begginer CpnsoleApp.pdb
+D:\.NET-Core\Begginer CpnsoleApp\obj\Debug\net6.0\Begginer CpnsoleApp.csproj.AssemblyReference.cache
+D:\.NET-Core\Begginer CpnsoleApp\obj\Debug\net6.0\Begginer CpnsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET-Core\Begginer CpnsoleApp\obj\Debug\net6.0\Begginer CpnsoleApp.AssemblyInfoInputs.cache
+D:\.NET-Core\Begginer CpnsoleApp\obj\Debug\net6.0\Begginer CpnsoleApp.AssemblyInfo.cs
+D:\.NET-Core\Begginer CpnsoleApp\obj\Debug\net6.0\Begginer CpnsoleApp.csproj.CoreCompileInputs.cache
+D:\.NET-Core\Begginer CpnsoleApp\obj\Debug\net6.0\Begginer CpnsoleApp.dll
+D:\.NET-Core\Begginer CpnsoleApp\obj\Debug\net6.0\ref\Begginer CpnsoleApp.dll
+D:\.NET-Core\Begginer CpnsoleApp\obj\Debug\net6.0\Begginer CpnsoleApp.pdb
+D:\.NET-Core\Begginer CpnsoleApp\obj\Debug\net6.0\Begginer CpnsoleApp.genruntimeconfig.cache
